@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="left">Привет, я Адилет! 🚀</h1>
+<p align="left">
+  Добро пожаловать в мой уголок на GitHub! Здесь я делюсь своими проектами, идеями и опытом в мире фронтенда.  
+  Люблю создавать крутые интерфейсы, изучать новые технологии и прокачивать свои навыки! 😎  
+</p>
 
-<!--
-**Adilet72/Adilet72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ О себе
+- 🎯 **Frontend-разработчик**, увлекаюсь веб-технологиями.
+- 💡 Разрабатываю проекты на **React, Redux, TypeScript, JavaScript**.
+- 🎨 Использую **SCSS и Tailwind CSS** для стилизации.
+- 🌍 Владею **кыргызским, русским и английским** языками.
+- 🔥 Обожаю кодить, экспериментировать и создавать красивые UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Стек технологий
+
+### 💻 **Языки программирования**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### 🌐 **Фреймворки и библиотеки**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+### 🎨 **Frontend & UI**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### 🔧 **Инструменты**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+
+---
+
+## 🏆 Статистика и достижения
+
+### 📈 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adilet72&show_icons=true&count_private=true&theme=tokyonight)
+
+### 🔥 **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adilet72&theme=tokyonight)
+
+### 📊 **Часто используемые языки**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adilet72&langs_count=10&theme=tokyonight)
+
+---
+
+## 📬 Связаться со мной
+📧 **Email:** [adiletashimov08@gmail.com](mailto:adiletashimov08@gmail.com)
+
+---
+
+🔥 **Спасибо, что заглянул(а)! Готов к новым проектам и интересному сотрудничеству! 🚀**
+
