@@ -1,4 +1,4 @@
-<h1 align="left">Привет, я Адилет! 🚀</h1>
+<h1 align="left">Привет, я Саридин! 🚀</h1>
 <p align="left">
   Добро пожаловать в мой уголок на GitHub! Здесь я делюсь своими проектами, идеями и опытом в мире фронтенда.  
   Люблю создавать крутые интерфейсы, изучать новые технологии и прокачивать свои навыки! 😎  
@@ -10,7 +10,7 @@
 - 🎯 **Frontend-разработчик**, увлекаюсь веб-технологиями.
 - 💡 Разрабатываю проекты на **React, Redux, TypeScript, JavaScript**.
 - 🎨 Использую **SCSS и Tailwind CSS** для стилизации.
-- 🌍 Владею **кыргызским, русским и английским** языками.
+- 🌍 Владею **кыргызским, русским** языками.
 - 🔥 Обожаю кодить, экспериментировать и создавать красивые UI.
 
 ---
@@ -35,7 +35,7 @@
 
 ### 🔧 **Инструменты**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<!-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) -->
 ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
 
@@ -55,7 +55,7 @@
 ---
 
 ## 📬 Связаться со мной
-📧 **Email:** [adiletashimov08@gmail.com](mailto:adiletashimov08@gmail.com)
+📧 **Email:** [saridintologonuulu94@gmail.com](mailto:saridintologonuulu94@gmail.com)
 
 ---
 
