@@ -41,18 +41,6 @@
 
 ---
 
-## 🏆 Статистика и достижения
-
-### 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adilet72&show_icons=true&count_private=true&theme=tokyonight)
-
-### 🔥 **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adilet72&theme=tokyonight)
-
-### 📊 **Часто используемые языки**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adilet72&langs_count=10&theme=tokyonight)
-
----
 
 ## 📬 Связаться со мной
 📧 **Email:** [saridintologonuulu94@gmail.com](mailto:saridintologonuulu94@gmail.com)
